@@ -4,13 +4,13 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/wave.gif" width="30px">
 
-My name is Louie Williford and I'm a software developer from sunny Colorado Springs, Colorado. You can find me elsewhere on the web on [!LinkedIn[LinkedIn][3.2]][3].
+My name is Louie Williford and I'm a software developer from sunny Colorado Springs, Colorado. I enjoy building user-oriented software solutions that scale. When I'm not coding you can find me at the dog park or playing guitar. You can find me elsewhere on the web on LinkedIn [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
 <!-- things to add: unity c#, nodejs, flutter, mongoDB, CSS, SCSS, LESS, AWS -->
 
-![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=reactJS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat-square&logo=dart&logoColor=white&color=2bbc8a)
