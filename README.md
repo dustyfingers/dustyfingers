@@ -8,7 +8,7 @@ My name is Louie Williford and I'm a software developer from sunny Colorado Spri
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=react-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
