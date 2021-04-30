@@ -27,6 +27,7 @@ My name is Louie Williford and I'm a software developer from sunny Colorado Spri
 ![](https://img.shields.io/badge/DevOps-AWS%20Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/DevOps-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=76d9b9)
 
 ## &#x1f4c8; GitHub Stats
