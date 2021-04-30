@@ -18,7 +18,7 @@ My name is Louie Williford and I'm a software developer from sunny Colorado Spri
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat-square&logo=sass&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-LESS-informational?style=flat-square&logo=less&logoColor=white&color=76d9b9)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat-square&logo=c-sharp&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat-square&logo=c-sharp&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=76d9b9)
