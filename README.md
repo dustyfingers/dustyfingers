@@ -8,16 +8,26 @@ My name is Louie Williford and I'm a software developer from sunny Colorado Spri
 
 ## 🔧 Technologies & Tools
 
-<!-- things to add: unity c#, nodejs, flutter, mongoDB, CSS, SCSS, LESS, AWS -->
+<!-- things to add: CSS, SCSS, LESS, AWS -->
 
-![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat-square&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat-square&logo=dart&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat-square&logo=sass&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-LESS-informational?style=flat-square&logo=less&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat-square&logo=c-sharp&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Tools-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/DevOps-AWS%20Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/DevOps-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=76d9b9)
 
 ## &#x1f4c8; GitHub Stats
 
