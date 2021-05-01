@@ -4,7 +4,7 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/wave.gif" width="30px">
 
-My name is Louie Williford and I'm a software developer from sunny Colorado Springs, Colorado. I have found my niche building user-oriented web solutions that scale. When I'm not coding you can find me at the dog park or playing guitar. You can find me elsewhere on the web on LinkedIn [[3.2]][3].
+My name is Louie Williford and I'm a software developer from sunny Colorado Springs, Colorado. I have found my niche building user-oriented web solutions that scale. When I'm not coding you can find me at the dog park or playing guitar. You can find me elsewhere on the web on [[LinkedIn]][3] or my [[personal site]][4].
 
 ## 🔧 Technologies & Tools
 
@@ -54,21 +54,15 @@ My name is Louie Williford and I'm a software developer from sunny Colorado Spri
 
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
+<!-- icons -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/linkedin-3-16.png "LinkedIn icon without padding"
+[1.1]: https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
 [2]: https://github.com/dustyfingers
 [3]: https://www.linkedin.com/in/louie-williford/
+[4]: https://www.louiewilliford.com
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
