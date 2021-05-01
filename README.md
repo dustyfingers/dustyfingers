@@ -2,9 +2,9 @@
 
 [![Header](https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/readme_banner.png "Header")](https://www.louiewilliford.com/)
 
-# Hi! <img src="https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/wave.gif" width="30px">
+# Hello World! <img src="https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/wave.gif" width="30px">
 
-My name is Louie Williford and I'm a software developer from sunny Colorado Springs, Colorado. I enjoy building user-oriented software solutions that scale. When I'm not coding you can find me at the dog park or playing guitar. You can find me elsewhere on the web on LinkedIn [![LinkedIn][3.2]][3].
+My name is Louie Williford and I'm a software developer from sunny Colorado Springs, Colorado. I have found my niche building user-oriented web solutions that scale. When I'm not coding you can find me at the dog park or playing guitar. You can find me elsewhere on the web on LinkedIn [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -33,10 +33,10 @@ My name is Louie Williford and I'm a software developer from sunny Colorado Spri
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/dustyfingers/dustyfingers">
+<a href="https://github.com/dustyfingers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustyfingers&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/dustyfingers/dustyfingers">
+<a href="https://github.com/dustyfingers">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dustyfingers&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Louie's GitHub Stats" />
 </a>
 
