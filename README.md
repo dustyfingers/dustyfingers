@@ -54,7 +54,7 @@ My name is Louie Williford, and I'm a full stack software developer from sunny C
 [2]: https://github.com/dustyfingers
 [3]: https://www.linkedin.com/in/louie-williford/
 [4]: https://www.louiewilliford.com
-[5]: https://www.louiemadeit.com
+[5]: https://dev.louiemadeit.com
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
