@@ -14,16 +14,17 @@ My name is Louie Williford, and I'm a full stack software developer from sunny C
 ![](https://img.shields.io/badge/Code-SASS-informational?style=flat-square&logo=sass&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-LESS-informational?style=flat-square&logo=less&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat-square&logo=ruby&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=76d9b9)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-AWS%20DynamoDB-informational?style=flat-square&logo=aws-dynamodb&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/DevOps-AWS%20Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/DevOps-AWS%20Lambda-informational?style=flat-square&logo=aws-lambda&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/DevOps-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/DevOps-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=76d9b9)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=76d9b9)
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dustyfingers">
