@@ -27,7 +27,7 @@ My name is Louie Williford, and I'm a full stack software developer from sunny C
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dustyfingers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustyfingers&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustyfingers&langs_count=10&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/dustyfingers">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dustyfingers&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Louie's GitHub Stats" />
