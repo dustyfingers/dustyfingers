@@ -18,7 +18,7 @@ My name is Louie Williford, and I'm a full stack software developer from sunny C
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=76d9b9)
-![](https://img.shields.io/badge/Code-AWS%20DynamoDB-informational?style=flat-square&logo=dynamodb&logoColor=white&color=76d9b9)
+![](https://img.shields.io/badge/Code-AWS%20DynamoDB-informational?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/DevOps-AWS%20Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/DevOps-AWS%20Lambda-informational?style=flat-square&logo=aws-lambda&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/DevOps-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=76d9b9)
