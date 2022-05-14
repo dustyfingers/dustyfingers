@@ -2,7 +2,7 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/wave.gif" width="30px">
 
-My name is Louie Williford, and I'm a full stack software developer from sunny Colorado Springs, Colorado. I have found my niche building beautiful, user-oriented web solutions that scale (mainly using Javascript!). When I'm not coding you can catch me at the dog park or at home playing guitar. You can find me elsewhere on the web on [LinkedIn][3], my [personal site][4], or even on my [beat store][5], peddling instrumentals.
+My name is Louie Williford, and I'm a full stack software developer from sunny Colorado Springs, Colorado. I have found my niche building beautiful, user-oriented web solutions that scale. When I'm not coding you can catch me at the park with my family or at home producing music. You can find me elsewhere on the web on [LinkedIn][3], my [personal site][4], or even on my [beat store][5], peddling instrumentals.
 
 ## 🔧 Technologies & Tools
 
