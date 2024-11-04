@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/readme_banner.png "Header")](https://www.louiewilliford.com/)
 
-# Hello World! <img src="https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/wave.gif" width="30px">
+# Hello World! <img src="https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/wave.gif" width="30px" height="30px">
 
 My name is Louie Williford, and I'm a full stack software engineer from sunny Colorado Springs, Colorado. I have found my niche building beautiful, user-oriented web solutions that scale. When I'm not coding you can catch me at the gym practicing jiu jitsu or at home producing instrumentals. You can find me elsewhere on the web on [LinkedIn][3], my [personal site][4], or even [my company's site][5].
 
