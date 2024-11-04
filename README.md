@@ -2,7 +2,7 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/wave.gif" width="30px">
 
-My name is Louie Williford, and I'm a full stack software developer from sunny Colorado Springs, Colorado. I have found my niche building beautiful, user-oriented web solutions that scale (mainly using Javascript!). When I'm not coding you can catch me at the dog park or at home playing guitar. You can find me elsewhere on the web on [LinkedIn][3], my [personal site][4], or even on my [beat store][5], peddling instrumentals.
+My name is Louie Williford, and I'm a full stack software engineer from sunny Colorado Springs, Colorado. I have found my niche building beautiful, user-oriented web solutions that scale. When I'm not coding you can catch me at the gym practicing jiu jitsu or at home producing instrumentals. You can find me elsewhere on the web on [LinkedIn][3], my [personal site][4], or even [my company's site][5].
 
 ## 🔧 Technologies & Tools
 
@@ -25,25 +25,14 @@ My name is Louie Williford, and I'm a full stack software developer from sunny C
 ![](https://img.shields.io/badge/DevOps-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=76d9b9)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dustyfingers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustyfingers&langs_count=10&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustyfingers&langs_count=10&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/dustyfingers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dustyfingers&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Louie's GitHub Stats" />
-</a>
-
-<a href="https://github.com/dustyfingers/portfolio-source">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dustyfingers&repo=portfolio-source&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/dustyfingers/louiemadeit-fe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dustyfingers&repo=louiemadeit-fe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/dustyfingers/louiemadeit-be">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dustyfingers&repo=louiemadeit-be&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=dustyfingers&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Louie's GitHub Stats" />
 </a>
 
 <!-- icons -->
@@ -54,8 +43,8 @@ My name is Louie Williford, and I'm a full stack software developer from sunny C
 
 [2]: https://github.com/dustyfingers
 [3]: https://www.linkedin.com/in/louie-williford/
-[4]: https://www.louiewilliford.com
-[5]: https://dev.louiemadeit.com
+[4]: https://www.thereallouiew.com
+[5]: https://www.piggybackstudios.co
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
