@@ -26,15 +26,6 @@ My name is Louie Williford, and I'm a full stack software engineer from sunny Co
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=76d9b9)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=76d9b9)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/dustyfingers">
-  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustyfingers&langs_count=10&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/dustyfingers">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=dustyfingers&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Louie's GitHub Stats" />
-</a>
-
 <!-- icons -->
 
 [1.1]: https://raw.githubusercontent.com/dustyfingers/dustyfingers/master/linkedin-3-16.png "LinkedIn icon without padding"
